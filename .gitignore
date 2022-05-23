@@ -1,0 +1,7 @@
+.vs/
+x64/
+NsightCompute/
+*.sln
+*.user
+*.vcxproj
+*.nvvp
